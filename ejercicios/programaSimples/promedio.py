@@ -1,0 +1,5 @@
+pn = int(input("Primera nota: "))
+sn = int(input("Segunda nota: "))
+tn = int(input("Tercera nota: "))
+cn = int(input("Cuarta nota: "))
+print("El promedio es: ", (pn+sn+tn+cn)/4)
